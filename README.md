@@ -1,1 +1,1 @@
-# 24-1학기 머신러닝기반데이터분석_개인 프로젝트
+# DSML_Prediction of Baseball Games Using Linear Regression
