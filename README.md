@@ -1,5 +1,4 @@
 # DSML_Prediction of Baseball Games Using Linear Regression
----
 - 2024년 3학년 1학기 머신러닝기반데이터분석 개인 프로젝트 아카이빙 레포지토리
 
 
