@@ -40,5 +40,9 @@ heatmap = sns.heatmap(corr.values, annot = True, fmt='.2f', annot_kws={'size':15
                       yticklabels = cols, xticklabels = cols, ax=ax, cmap = "RdYlBu")
 plt.tight_layout()
 plt.show
-### R(득점)과 TB(총루타)이 높은 상관관계를 보임
-### R(득점)변수와 높은 상관관계를 보이는 변수가 많음 + 선행연구 참고 -> R(득점) 변수 제거
+# R(득점)과 TB(총루타)이 높은 상관관계를 보임
+# R(득점)변수와 높은 상관관계를 보이는 변수가 많음 + 선행연구 참고 -> R(득점) 변수 제거
+
+# 최종 변수
+# 총 10개의 변수
+# R(득점) SF(희생플라이) BB(4구) IBB(고의4구) HPB (사구) OPS(출루율+장타율) SB(도루허용) SV(세이 브) HLD (홀드)
