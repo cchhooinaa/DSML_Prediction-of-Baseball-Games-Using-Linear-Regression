@@ -50,7 +50,7 @@ OLS 모델 학습 (train 80 / test 20)
 <img src="assets/correlation_heatmap.png" width="600"/>
 
 ### VIF 다중공선성 검사
-<img src="assets/vif_table.png" width="500"/>
+<img src="assets/vif_table.png" height="200"/>
 
 ### 예측 결과 (Test Set)
 <img src="assets/prediction_result.png" width="600"/>
