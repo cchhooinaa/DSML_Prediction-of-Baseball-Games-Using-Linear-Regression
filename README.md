@@ -44,16 +44,16 @@ OLS 모델 학습 (train 80 / test 20)
 ## Results
 
 ### EDA — 승률 분포
-<img src="assets/eda_histogram.png" width="600"/>
+<img src="assets/eda_histogram.png" width="500"/>
 
 ### 상관관계 히트맵
-<img src="assets/correlation_heatmap.png" width="600"/>
+<img src="assets/correlation_heatmap.png" width="500"/>
 
 ### VIF 다중공선성 검사
-<img src="assets/vif_table.png" height="200"/>
+<img src="assets/vif_table.png" height="400"/>
 
 ### 예측 결과 (Test Set)
-<img src="assets/prediction_result.png" width="600"/>
+<img src="assets/prediction_result.png" width="500"/>
 
 ## Preprocessing
 
