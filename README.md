@@ -54,6 +54,7 @@ OLS 모델 학습 (train 80 / test 20)
 
 ### 예측 결과 (Test Set)
 ![예측 결과](assets/prediction_result.png)
+<img src="assets/prediction_result.png" width="600"/>
 
 ## Preprocessing
 
